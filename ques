@@ -4,4 +4,4 @@ You are initially standing at index 0. In one move, you can jump at most k steps
 
 You want to reach the last index of the array (index n - 1). Your score is the sum of all nums[j] for each index j you visited in the array.
 
-Return the maximum score you can get.
+Return the maximum score you can ge.
